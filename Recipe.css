@@ -1,0 +1,25 @@
+table, th, td {
+    border:1px solid black;
+    border-collapse: collapse;
+  }
+
+
+.img{
+    height: auto;
+    width: 8cm;
+}
+
+.column {
+    float: left;
+    width: 15%;
+    padding: 3px;
+     margin: auto;
+     background-color: rgb(158, 148, 134);
+    border-style: solid;
+     border-color: white;
+     border-radius: 10px;
+     
+    }
+  }
+
+ 
